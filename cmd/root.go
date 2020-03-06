@@ -23,8 +23,9 @@ package cmd
 import (
 	"fmt"
 	"os"
+
 	"github.com/spf13/cobra"
-	"github.com/UnknownDoggo/bashful/pkg/runtime"
+	"github.com/wagoodman/bashful/pkg/runtime"
 )
 
 var cachePath string

@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"github.com/deckarep/golang-set"
 	"github.com/spf13/afero"
-	"github.com/UnknownDoggo/bashful/utils"
+	"github.com/wagoodman/bashful/utils"
 	"gopkg.in/yaml.v2"
 	"os"
 	"path"
